@@ -1,5 +1,5 @@
 # Dialogflow CX Training Phrases Extraction
-Python code to export the training phrases of a Dialogflow Agent to a .csv file.
+Python code to export the training phrases from a Dialogflow Agent to a .csv file.
 
 ## To install run the following commnands in your console:
 
