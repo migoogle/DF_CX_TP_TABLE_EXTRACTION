@@ -1,0 +1,3 @@
+dfcx-scrapi
+pandas
+numpy

@@ -1,0 +1,1626 @@
+display_name,training_phrase
+Complex transfer,I need to transfer $300
+Complex transfer,I need to transfer money from my source account ***332
+Complex transfer,"I want to do a transfer, please"
+Complex transfer,I want to make a transfer of 600 usd and register the following memo: this is for the children's vacations.
+Complex transfer,I want to transfer $500
+Complex transfer,"I want to transfer 300 usd to my savings account, and memo that it's for my children school"
+Complex transfer,I want to transfer money from my account vacations to the savings account
+Complex transfer,"Transfer 3004 from my school account to my house account, and memo it"
+Complex transfer,Transfer 500 bucks and save it with the following note: this is for my brother
+Complex transfer,"Transfer 500 usd from my salary account to my school account, create a memo: it's for the kids university"
+Complex transfer,Transfer money $100
+Complex transfer,make a transfer of 400 and save the following memo: it is for the vacations
+Complex transfer,please make a memo with the following: I want to make a transfer of 500 usd
+Complex transfer,please transfer 543 dollars and 11 cents
+Complex transfer,transfer 300 to my savings account and add this memo: this is to buy a new car
+Complex transfer,transfer 400 usd and store it as a memo
+Complex transfer,transfer 500 to charly and save it as a memo
+Complex transfer,"transfer money to my savings account and add the memo, it is for my gym classes"
+Custom Event Button,I want to see the button
+Custom Event Button,button
+Custom Event Button,button please
+Custom Event Button,the button please
+Custom Event List,I want to see the list
+Custom Event List,list please
+Custom Event List,show me the list please
+Custom Event List,the list please
+Custom Event Test,I want to test custom events
+Custom Event Test,custom events please
+Custom Event Test,show me custom events cases
+Default Negative Intent,Any offers?
+Default Negative Intent,Can I add a second card holder
+Default Negative Intent,Can I close my account
+Default Negative Intent,Close account
+Default Negative Intent,I have a complaint
+Default Negative Intent,I have moved
+Default Negative Intent,I want to buy a car
+Default Negative Intent,I want to change my direct debit
+Default Negative Intent,I want to move my accounts to you
+Default Negative Intent,I want to open up a 401K
+Default Negative Intent,I want to opt out of marketing material
+Default Negative Intent,I'd like to cancel my credit card
+Default Negative Intent,I'd like to sign up for a new credit card
+Default Negative Intent,New promotions
+Default Negative Intent,Open a Checking Account
+Default Negative Intent,Sign up for new card
+Default Negative Intent,Still haven't received my refund
+Default Negative Intent,You haven't been very helpful
+Default Negative Intent,can I use my credit card abroad
+Default Negative Intent,do you hire?
+Default Negative Intent,do you offer 401k
+Default Negative Intent,how to update my address
+Default Negative Intent,what are your savings rates
+Default Negative Intent,what insurance products do you offer
+Default Negative Intent,what's your current loan rate
+Default Welcome Intent,Hi
+Default Welcome Intent,I greet you
+Default Welcome Intent,I have a query
+Default Welcome Intent,I have a question
+Default Welcome Intent,I need some help
+Default Welcome Intent,I was wondering whether you can help me
+Default Welcome Intent,a good day
+Default Welcome Intent,can you assist me with a query I have
+Default Welcome Intent,can you help me with a query that I have
+Default Welcome Intent,greetings
+Default Welcome Intent,hello
+Default Welcome Intent,hello again
+Default Welcome Intent,hello hi
+Default Welcome Intent,hello there
+Default Welcome Intent,hey
+Default Welcome Intent,hey there
+Default Welcome Intent,heya
+Default Welcome Intent,hi
+Default Welcome Intent,hi there
+Default Welcome Intent,howdy
+Default Welcome Intent,just going to say hi
+Default Welcome Intent,long time no see
+Default Welcome Intent,lovely day isn't it
+Default Welcome Intent,what can you do?
+Default Welcome Intent,what can you help me with
+Default Welcome Intent,what do you do?
+accountApplicationStatus,I have recently applied for a new credit card. i would like to know the status of that
+accountApplicationStatus,applications status
+accountApplicationStatus,applied for credit card last week but no decision yet? checking status
+accountApplicationStatus,applied for credit card what's the status?
+accountApplicationStatus,applied for refinance. can you tell me status?
+accountApplicationStatus,can i ask the status of my card application
+accountApplicationStatus,can u check the status of my cc i applied for
+accountApplicationStatus,can you check the status of my everyday checking acc application
+accountApplicationStatus,can you help me check my status for applying credit card?
+accountApplicationStatus,can you help me check my status for applying my credit card?
+accountApplicationStatus,can you help me checking status for applying credit card?
+accountApplicationStatus,can you tell me my credit card application status
+accountApplicationStatus,check application status
+accountApplicationStatus,check credit application status
+accountApplicationStatus,check on status of application for credit card
+accountApplicationStatus,check status application
+accountApplicationStatus,check status of a credit card application
+accountApplicationStatus,check status of an application
+accountApplicationStatus,check status of card application
+accountApplicationStatus,check status on credit application
+accountApplicationStatus,check status on credit card application
+accountApplicationStatus,checking on status of application
+accountApplicationStatus,could i check on the status of a credit card i applied for?
+accountApplicationStatus,could i check on the status of a credit card i applied to
+accountApplicationStatus,credit card application status.
+accountApplicationStatus,find out status of credit card application
+accountApplicationStatus,good morning i just wanted to verify the status of my credit card application?
+accountApplicationStatus,hello i applied for a credit card on 10/20 and have not heard anything. i wanting to check on the status of my application
+accountApplicationStatus,hello i applied on line already and i am wanting to see thw status of it. i never received an email.
+accountApplicationStatus,hello i wanted to check the application status on my credit card application
+accountApplicationStatus,hi i had applied for a credit card. i just wanted to check the status on that please
+accountApplicationStatus,hos to check status of my credit card application
+accountApplicationStatus,how can i check my application status online?
+accountApplicationStatus,how can i see my status for an application i sent in
+accountApplicationStatus,how do i check my credit card application status
+accountApplicationStatus,how do i check the status of a new account application?
+accountApplicationStatus,how do i find out my credit card application status?
+accountApplicationStatus,how do i find out the status off an credit card application
+accountApplicationStatus,how long does it take to find out your approval status on a credit card you applied for?
+accountApplicationStatus,how long does it take to processing credit card. when you applied to.
+accountApplicationStatus,how to see credit card application status
+accountApplicationStatus,i am checking on the status of my credit card application.
+accountApplicationStatus,i am john just want to follow up the status of my credit card application?
+accountApplicationStatus,i am trying to check on the status of my loan application
+accountApplicationStatus,i am trying to find out the status of my credit card application?
+accountApplicationStatus,i am trying to know my application status as it said within minutes you get to know that you are approved or not
+accountApplicationStatus,i applied a credit card on 6 days ago haven't hear anything back so far just wanna check processing status
+accountApplicationStatus,i applied for a 100 dollars credit card just wanted to see what the status was
+accountApplicationStatus,i applied for a cash wise credit card with no interest for 15 months and i was inquiring on the status of it
+accountApplicationStatus,i applied for a college credit card and just checking on my status
+accountApplicationStatus,i applied for a college credit card and was wondering the status
+accountApplicationStatus,i applied for a credit card and i'm trying to see my status
+accountApplicationStatus,i applied for a credit card and received an email saying my application was received. i never received another email telling me the status of my application.
+accountApplicationStatus,i applied for a credit card and wanted to know the status
+accountApplicationStatus,i applied for a credit card and was trying to check the status on it
+accountApplicationStatus,i applied for a credit card and was wanting to check the status of my application.
+accountApplicationStatus,i applied for a credit card and was wanting to check the status.
+accountApplicationStatus,i applied for a credit card last week and wanted to know the status
+accountApplicationStatus,i applied for a credit card last week. how do i check on the status of that?
+accountApplicationStatus,i applied for a credit card with y'all and was wondering how long the application takes to approve or deny.
+accountApplicationStatus,i applied for a credit card yesterday and i want to know the status of it
+accountApplicationStatus,i applied for a loan and want to check on the status of the decision
+accountApplicationStatus,i applied for a loan and wanted to check the status
+accountApplicationStatus,i applied for a loan on the 13th any idea when i'll get a answer back?
+accountApplicationStatus,i applied for a loan yesterday and still have not received a call about it. when am i going to find out if i have been approved or not?
+accountApplicationStatus,i applied for a secure credit card yesterday i was just curious about how long it will take to get status?
+accountApplicationStatus,i applied for a secured credit card and i am checking the status
+accountApplicationStatus,i applied for a student card and was wondering if you could tell me the status
+accountApplicationStatus,i applied for a student credit card recently and wanted to make sure that the application went through and if so what the status on it is?
+accountApplicationStatus,i applied for a wells fargo credit card a few days ago. where can i check the status?
+accountApplicationStatus,i applied for a wells fargo credit card and have not heard back from anyone of the status of my card
+accountApplicationStatus,i applied for assistance due to covid and my account is showing past due. can you please advise the status?
+accountApplicationStatus,i applied for the wf credit card and it said that it was still pending. do you know the status of that?
+accountApplicationStatus,i applied to a creditcard last night and would like to know the status?
+accountApplicationStatus,i currently applied for a loan through you guys and i just wanted to check the status of my application
+accountApplicationStatus,i filled out credit card application. what's the status
+accountApplicationStatus,i had applied for a credit card and wanted to know the status of that
+accountApplicationStatus,i had applied for a credit card and wanted to know the status of that please
+accountApplicationStatus,i just applied for credit card i want to know what's the status
+accountApplicationStatus,i just put my application in yesterday for an everyday checking acc..can you check the status of my application please
+accountApplicationStatus,i just want to check my application status.
+accountApplicationStatus,i just wanted to verify the status of my credit card application?
+accountApplicationStatus,i need to check my credit card application status
+accountApplicationStatus,i need to know the status of the credit card application.
+accountApplicationStatus,i need to se set status of my credit card application
+accountApplicationStatus,i recently applied for a credit card my name is john. i'm trying to check my status
+accountApplicationStatus,i recently applied for a credit card. when do i find out if i was approved? it was a week ago.
+accountApplicationStatus,i recently applied for a loan forbearance. i would like to know the status please
+accountApplicationStatus,i recently put an application in for a credit card where can i check the status of my application?
+accountApplicationStatus,i submitted a credit card application where can i check the status?
+accountApplicationStatus,i wanna check status on my credit card application
+accountApplicationStatus,i want to check my application status
+accountApplicationStatus,i want to check on the status of my credit application
+accountApplicationStatus,i want to check on the status of my credit card application
+accountApplicationStatus,i want to know the status of an application
+accountApplicationStatus,i want to see the status of my loan application
+accountApplicationStatus,i wanted to check in the status of my mortgage application.
+accountApplicationStatus,i wanted to check on my credit card application status
+accountApplicationStatus,i wanted to check on the status of an application i applied for a credit card online
+accountApplicationStatus,i wanted to check the application status on my credit card
+accountApplicationStatus,i wanted to check the application status on the platinum visa credit card
+accountApplicationStatus,i wanted to check the status of my credit card application.
+accountApplicationStatus,i wanted to check the status on my application for credit card
+accountApplicationStatus,i wanted to know how my loan application status is going
+accountApplicationStatus,i wanted to know status of platinum credit card application
+accountApplicationStatus,i was checking on the status of the credit card i applied for.
+accountApplicationStatus,i was curious to find out my application status for a personal loan application i submitted tuesday morning.
+accountApplicationStatus,i was just checking if there was a way to check on the status of my application
+accountApplicationStatus,i was wanting to check the status on a credit application i submitted
+accountApplicationStatus,i was wondering about the status about a credit card i had applied for..
+accountApplicationStatus,i was wondering how i can check the status of my credit card application
+accountApplicationStatus,i was wondering how i can check the status of my wells fargo credit card application
+accountApplicationStatus,i was wondering if i can get an update on the status of a credit card i applied for haven't received anything in the mail
+accountApplicationStatus,i was wondering on the status of the credit card i applied for. i just wanted to know if i was approved or not.
+accountApplicationStatus,i would like to check on a credit card application status
+accountApplicationStatus,i would like to check the status of loan application
+accountApplicationStatus,i would like to check the status of the credit card application i submitted
+accountApplicationStatus,i would like to know my credit card application status please
+accountApplicationStatus,i would like to know the credit card status of an application
+accountApplicationStatus,i would like to know the status of a wells fargo credit card application
+accountApplicationStatus,i would like to know the status of my credit application
+accountApplicationStatus,i would like to know the status of my credit application. the reference number is 9999
+accountApplicationStatus,i would like to know the status on my application. i recently applied for a credit card
+accountApplicationStatus,i would like to know the status on my application. i recently applied for a credit card cash wise card?
+accountApplicationStatus,i'd like the status of a credit card application.
+accountApplicationStatus,i'd like to check the status of a credit card application.
+accountApplicationStatus,i'd like to check the status of my credit card application - reference 9999
+accountApplicationStatus,i'd like to know the status on my credit card application
+accountApplicationStatus,if i applied for a credit card online how do i check the status of the approval and wait time
+accountApplicationStatus,just checking the status of my credit card application
+accountApplicationStatus,looking to see status of my credit card application.
+accountApplicationStatus,not able to check my application status
+accountApplicationStatus,requesting a status of my credit card application?
+accountApplicationStatus,status of a credit card application
+accountApplicationStatus,status of application
+accountApplicationStatus,status on loan application
+accountApplicationStatus,status or my application for credit card
+accountApplicationStatus,trying to figure out the status of credit card application
+accountApplicationStatus,wanted to know status of my application for credit card
+accountApplicationStatus,what is my status of my credit card application
+accountApplicationStatus,what is the status of my loan application?
+accountApplicationStatus,what is the status of my savings account application?
+accountApplicationStatus,what is the status on my personal loan application
+accountApplicationStatus,what my application status for a credit card
+accountApplicationStatus,whats the status on my application for a credit card
+accountApplicationStatus,when am i going to receive the call about my application to the loan?
+accountApplicationStatus,when i opened this account i also applied for a credit card.. still havent recieved it or been notified otherwise
+accountApplicationStatus,when will i know if my credit card application was accepted
+accountApplicationStatus,where would i check the status of my credit card application?
+accountApplicationStatus,yesterday i applied for credit card can i know status about my application
+accountOpen,Am I able to open a savings account through the app
+accountOpen,Can I create a savings account online
+accountOpen,Can I make a savings account from my phone
+accountOpen,Can I make a savings account online
+accountOpen,Can I make savings account on the app
+accountOpen,Can I open a joint account?
+accountOpen,Can I open a new account
+accountOpen,Can I open a new account in my name only
+accountOpen,Can I open a new savings account on my app?
+accountOpen,Can I open a new way2save account
+accountOpen,Can I open a saving account on the app
+accountOpen,Can I open a savings account
+accountOpen,Can I open a savings account online
+accountOpen,Can I open a savings account online is that possible?
+accountOpen,Can I open a second account
+accountOpen,Can I open account online
+accountOpen,Can I open an account
+accountOpen,Can I open an account through the mobile app?
+accountOpen,Can I open an additional checking account from here?
+accountOpen,Can I open an additional checking account.
+accountOpen,Can I open another checking account?
+accountOpen,Can I set up a new account online
+accountOpen,Can I set up a savings account
+accountOpen,Can i make a savings account
+accountOpen,Can i open a checking account for my daughter
+accountOpen,Can i open a saving account through the app
+accountOpen,Can i open a savings account by phone?
+accountOpen,Can i open a savings with this account
+accountOpen,Can i open an account online
+accountOpen,Can i open another checking account online?
+accountOpen,Can i set up a savings account online
+accountOpen,Can you open a savings account online
+accountOpen,Can you open a savings account thru the app?
+accountOpen,Can you set up a savings account for me
+accountOpen,Create savings account
+accountOpen,How can I make a savings account
+accountOpen,How can I make a savings account through the app
+accountOpen,How can I open a new account
+accountOpen,How can I open a new saving account
+accountOpen,How can I open a saving account on the app
+accountOpen,How can I open a savings account online
+accountOpen,How can I open a savings account thru my phone?
+accountOpen,How can I open a shared bank account with my husband?
+accountOpen,How can I open accounts for them
+accountOpen,How can I open an account
+accountOpen,How can I open an account for my 16 year old
+accountOpen,How can I open an savings account
+accountOpen,How can I open saving account too
+accountOpen,How can I set up an account for my minor child
+accountOpen,How can I set up business checking account
+accountOpen,How can i open a regular checking account
+accountOpen,How can i open a savings account thru the app
+accountOpen,How can i open a savings and checking account together
+accountOpen,How can i open a second checking account
+accountOpen,How do I create a savings account
+accountOpen,How do I go about to open saving account
+accountOpen,How do I make a savings account
+accountOpen,How do I make a savings account on the app
+accountOpen,How do I open a savings account
+accountOpen,How do I open a savings account for my teenager
+accountOpen,How do I open a savings account from my app?
+accountOpen,How do I open a savings account on my phone
+accountOpen,How do I open a savings account online
+accountOpen,How do I open an account for my minor son?
+accountOpen,How do I open up a checking account
+accountOpen,How do I open up a savings account?
+accountOpen,How do i set up a checking account
+accountOpen,How do u set up a teen banking account
+accountOpen,How to open a savings account
+accountOpen,How to open account for existing customers
+accountOpen,How to set up a savings account
+accountOpen,How will I be able to make a savings account
+accountOpen,How would I go about opening an saving account?
+accountOpen,I am interested in opening a business account
+accountOpen,I am interested in opening a savings account
+accountOpen,I am wanting to open a savings account
+accountOpen,I need open business account
+accountOpen,I need to add a new savings account
+accountOpen,I need to create another savings account.
+accountOpen,I need to open a new checking account
+accountOpen,I need to open a savings account.
+accountOpen,I need to open a savings account. Can I do that online ?
+accountOpen,I need to open a second checking account please
+accountOpen,I need to open a separate savings account
+accountOpen,I need to open savings account
+accountOpen,I need to set up a business account
+accountOpen,I need to set up a savings account
+accountOpen,I wanna create savings account
+accountOpen,I wanna open a savings account
+accountOpen,I want to how to open saving account
+accountOpen,I want to know if its able to open a account online
+accountOpen,I want to make a savings account
+accountOpen,I want to open a business account
+accountOpen,I want to open a new account
+accountOpen,I want to open a new checking account
+accountOpen,I want to open a new checking account connected to my current checking account
+accountOpen,I want to open a new way to save savings account
+accountOpen,I want to open a saving account
+accountOpen,I want to open a savings account
+accountOpen,I want to open a second checking account
+accountOpen,I want to open a separate checking account
+accountOpen,I want to open an account
+accountOpen,I want to open an additional checking account.
+accountOpen,I want to open another savings account
+accountOpen,I want to open savings account
+accountOpen,I want to open up a opportunity savings. I already have a opportunity checking account
+accountOpen,I want to open up a saving account
+accountOpen,I want to see can I open a account for my kids
+accountOpen,I want too open up a business account
+accountOpen,I wanted to know if I can make a savings account online
+accountOpen,I wanted to open a savings account
+accountOpen,I wanted to open an account for my sons
+accountOpen,I was wonder how to open up a savings account
+accountOpen,I was wondering about opening a savings account
+accountOpen,I was wondering how can I open a savings account
+accountOpen,I was wondering how to open a business account
+accountOpen,I was wondering if I could make a savings account online
+accountOpen,I will like to make a savings account
+accountOpen,I will like yo create a savings account
+accountOpen,I would like to make a savings account
+accountOpen,I would like to open a business account
+accountOpen,I would like to open a checking account
+accountOpen,I would like to open a joint account with my spouse
+accountOpen,I would like to open a new account
+accountOpen,I would like to open a new account but I have questions
+accountOpen,I would like to open a new checking account
+accountOpen,I would like to open a new savings account
+accountOpen,I would like to open a saving account
+accountOpen,I would like to open a saving account with my checking account.
+accountOpen,I would like to open a savings account
+accountOpen,I would like to open an IRA account
+accountOpen,I would like to open another account
+accountOpen,I would like to open another savings account can I do that mobily?
+accountOpen,I would like to open another savings account. Am I able to do this online or over the phone?
+accountOpen,I would like to open savings accounts attached to my checking
+accountOpen,I would like to open savings accounts only
+accountOpen,I'd like to get a savings with Wells Fargo
+accountOpen,I'd like to open a new savings account
+accountOpen,I'd like to open a savings account online
+accountOpen,I'd like to open up a checking account please
+accountOpen,I'd like to set up a savings account
+accountOpen,I'm looking to set up a new savings account for a minor.
+accountOpen,I'm thinking of opening a savings account
+accountOpen,I'm trying to open a savings account
+accountOpen,Id like to open a savings account
+accountOpen,Im wanting to open a savings account
+accountOpen,Like to open a checking account.
+accountOpen,Looking to open a business account.
+accountOpen,Make a savings account
+accountOpen,May I open a saving account online?
+accountOpen,Need to open another account.
+accountOpen,New account
+accountOpen,New account needed
+accountOpen,Open a checking account
+accountOpen,Open a new account
+accountOpen,Open a new checking account
+accountOpen,Open a new savings account
+accountOpen,Open a regular checking account
+accountOpen,Open a saving account today
+accountOpen,Open a savings account
+accountOpen,Open a second checking account
+accountOpen,Open account
+accountOpen,Open an account for minor
+accountOpen,Open another account
+accountOpen,Open another checking account
+accountOpen,Open new account
+accountOpen,Open new checking account
+accountOpen,Open new savings account
+accountOpen,Open saving account
+accountOpen,Open savings account
+accountOpen,Open up a checking account
+accountOpen,Open up a new savings account
+accountOpen,Open up a savings account
+accountOpen,Open up new checking account
+accountOpen,Open up savings account
+accountOpen,Opening a new account
+accountOpen,Opening a savings account
+accountOpen,Opening an account
+accountOpen,Opening up a savings account
+accountOpen,Set up another checking account
+accountOpen,Set up teen account
+accountOpen,Wanna open a new checking account
+accountOpen,Want to make a savings account
+accountOpen,Want to open a savings account
+accountOpen,Want to open an additional savings account
+accountOpen,Wants to open up a savings account online
+accountOpen,What do I need to do to open a savings account?
+accountOpen,account options
+accountOpen,am I able to set up a savings account
+accountOpen,apply for a account
+accountOpen,apply for a bank loan
+accountOpen,apply for a home loan
+accountOpen,apply for a loan
+accountOpen,apply for a loan online
+accountOpen,apply for a personal loan
+accountOpen,apply for a rent personal loan
+accountOpen,apply for a savings account
+accountOpen,apply for a small loan
+accountOpen,apply for auto loan
+accountOpen,apply for bank loan
+accountOpen,apply for checking account
+accountOpen,apply for home improvement loan
+accountOpen,apply for home loan
+accountOpen,apply for loan
+accountOpen,apply for loan online
+accountOpen,apply for loans
+accountOpen,apply for mortgage loan
+accountOpen,apply for new account
+accountOpen,apply for personal loan
+accountOpen,apply for personal loans
+accountOpen,apply for ppp loan
+accountOpen,apply for saving account
+accountOpen,apply for savings account
+accountOpen,apply loan
+accountOpen,apply new account online
+accountOpen,applying for a bank loan
+accountOpen,applying for a loan
+accountOpen,applying for a personal loan
+accountOpen,applying for a ppp loan
+accountOpen,applying for personal loan
+accountOpen,are there any short term loan options available
+accountOpen,borrow 100 dollars
+accountOpen,borrow a 100 dollars
+accountOpen,borrow cash
+accountOpen,borrow funds
+accountOpen,borrow money
+accountOpen,borrow money from here?
+accountOpen,borrowing cash
+accountOpen,can I create a minor account from home.
+accountOpen,can I open a new account online?
+accountOpen,can I open a new account through the app?
+accountOpen,can I open an saving account now
+accountOpen,can I open saving account
+accountOpen,can add another savings account
+accountOpen,can apply for credit card?
+accountOpen,can i add a savings account
+accountOpen,can i add another checking account?
+accountOpen,can i add mortgage account
+accountOpen,can i apply credit card
+accountOpen,can i apply for a loan
+accountOpen,can i apply for credit card
+accountOpen,can i apply for loan
+accountOpen,can i apply for personal loan
+accountOpen,can i borrow 100 dollars
+accountOpen,can i borrow 9999
+accountOpen,can i borrow money
+accountOpen,can i create an account
+accountOpen,can i do a heloc?
+accountOpen,can i get a cash loan?
+accountOpen,can i get a loan
+accountOpen,can i get a personal loan
+accountOpen,can i get a savings account
+accountOpen,can i get credit card
+accountOpen,can i get heloc
+accountOpen,can i get personal loan?
+accountOpen,can i have a loan
+accountOpen,can i make a joint account
+accountOpen,can i make another checking account
+accountOpen,can i make savings account
+accountOpen,can i obtain a heloc loan?
+accountOpen,can i open IRA account
+accountOpen,can i open a business account
+accountOpen,can i open a credit card
+accountOpen,can i open a new checking account?
+accountOpen,can i open a saving account
+accountOpen,can i open a savings account from the app
+accountOpen,can i open a savings account?
+accountOpen,can i open account
+accountOpen,can i open another account online?
+accountOpen,can i open another account?
+accountOpen,can i open another savings account
+accountOpen,can i open multiple accounts?
+accountOpen,can i open new account
+accountOpen,can i open savings account
+accountOpen,can i open up another account
+accountOpen,can i qualify for a loan?
+accountOpen,can i request a loan?
+accountOpen,can i saving account online
+accountOpen,can i start a savings account?
+accountOpen,can i start an account?
+accountOpen,can i take out a loan
+accountOpen,can open a new account
+accountOpen,can open another savings account
+accountOpen,can u get a loan?
+accountOpen,can u have a loan?
+accountOpen,can you create another savings account?
+accountOpen,can you open accounts online
+accountOpen,card options
+accountOpen,checking account options
+accountOpen,could I make a savings account
+accountOpen,could you just brief me on better savings account options for my first savings account?
+accountOpen,credit card options
+accountOpen,discussing my savings account options
+accountOpen,do you have saving account options
+accountOpen,get a business account
+accountOpen,get a checking account
+accountOpen,get a home loan
+accountOpen,get a loan
+accountOpen,get a loan from here ?
+accountOpen,get a personal loan
+accountOpen,get a savings account
+accountOpen,get a separate bank account
+accountOpen,get loan
+accountOpen,get saving account
+accountOpen,get savings account
+accountOpen,getting a loan
+accountOpen,getting approved for a loan
+accountOpen,getting personal loan
+accountOpen,hello i am interested in my options getting an auto loan. can you help me get started?
+accountOpen,hello. is it possible to open a saving account? do you have any options?
+accountOpen,help with applying for a loan
+accountOpen,home loan options
+accountOpen,how can I create a savings account
+accountOpen,how can I open a savings account
+accountOpen,how can I open a small business account?
+accountOpen,how can a savings account?
+accountOpen,how can apply credit card
+accountOpen,how can i add a account
+accountOpen,how can i add another account
+accountOpen,how can i add savings account
+accountOpen,how can i borrow money
+accountOpen,how can i create an account
+accountOpen,how can i do a loan
+accountOpen,how can i get a loan
+accountOpen,how can i get credit card?
+accountOpen,how can i get loans
+accountOpen,how can i get money loans?
+accountOpen,how can i open account
+accountOpen,how can i open another account
+accountOpen,how can i open business account
+accountOpen,how can i open savings account
+accountOpen,how can i request a loan
+accountOpen,how can i start saving account
+accountOpen,how can open a savings account ?
+accountOpen,how can open saving account
+accountOpen,how could I open a saving account
+accountOpen,how do I open a saving account through the application
+accountOpen,how do I set up a savings account on the app
+accountOpen,how do i apply for loans
+accountOpen,how do i get a loan
+accountOpen,how do i get a whole new account
+accountOpen,how do i make a child savings account
+accountOpen,how do i open a checking account
+accountOpen,how do i open a saving account
+accountOpen,how do i set up a savings account
+accountOpen,how i can open credit card
+accountOpen,how to apply for a loan
+accountOpen,how to apply for loan
+accountOpen,how to apply for online loan
+accountOpen,how to apply for personal loan
+accountOpen,how to apply for ppp loan
+accountOpen,how to apply ppp loan
+accountOpen,how to get a loan
+accountOpen,how to get a personal loan
+accountOpen,how to get a savings account
+accountOpen,how to get checking account
+accountOpen,how to get loan
+accountOpen,how to get ppp loan
+accountOpen,how to get saving account
+accountOpen,how to get savings account
+accountOpen,how to open new account
+accountOpen,how would i get a loan
+accountOpen,i am looking to open a savings account.
+accountOpen,i can apply for loan
+accountOpen,i can get credit card?
+accountOpen,i just graduated college but i do not have a credit card yet. what are my options?
+accountOpen,i need to borrow 100 dollars
+accountOpen,i need to borrow money
+accountOpen,i need to borrow some money
+accountOpen,i need to get a loan
+accountOpen,i need to open a checking account
+accountOpen,i want a checking account
+accountOpen,i want a home loan
+accountOpen,i want a loan
+accountOpen,i want a personal loan
+accountOpen,i want a regular checking account
+accountOpen,i want a save account
+accountOpen,i want a saving account
+accountOpen,i want a savings account
+accountOpen,i want another account
+accountOpen,i want home loans
+accountOpen,i want make saving account
+accountOpen,i want open a saving account
+accountOpen,i want open a savings account
+accountOpen,i want open account
+accountOpen,i want open savings account
+accountOpen,i want to apply for a credit card through the bank to build my credit. whats my best options
+accountOpen,i want to apply loan
+accountOpen,i want to apply personal loan
+accountOpen,i want to ask about loans
+accountOpen,i want to choose an account
+accountOpen,i want to get a loan
+accountOpen,i want to get loan
+accountOpen,i want to get saving account
+accountOpen,i want to hear about your credit card options
+accountOpen,i want to know if i can open an account online?
+accountOpen,i want to know what kind of checking accounts you offer.
+accountOpen,i want to open a business checking account
+accountOpen,i want to open a savings account and see what kind of credit card i may be illegible for. can i do that online?
+accountOpen,i want to open another account
+accountOpen,i want to open brokerageaccount
+accountOpen,i want to open saving account
+accountOpen,i want to see if what kind of loans are available to me?
+accountOpen,i want topen a savings account
+accountOpen,i wanted a personal loan
+accountOpen,i wanted to adding save account
+accountOpen,i was thinking about getting a loan. it would be for a used boat. do you have options?
+accountOpen,i was wanting to see what kind of car loan i could get
+accountOpen,i was wondering how to open up a savings account
+accountOpen,i will like to open a saving account
+accountOpen,i would like to know more about your credit card options
+accountOpen,i would like to open a second account
+accountOpen,i would like to open an account for my 5 year old. what are my options?
+accountOpen,i'd like to apply for a credit card. what are my options?
+accountOpen,i'm looking into loan options
+accountOpen,i'm still looking for card options to apply.
+accountOpen,id like to borrow100 dollars
+accountOpen,im trying to make a savings account
+accountOpen,im trying to make a savings account linked to this account
+accountOpen,im want to know if i can open a another account
+accountOpen,intrested in applying for a loan
+accountOpen,investment options
+accountOpen,is there a option here to open a savings account?
+accountOpen,is there a way I can open a savings account
+accountOpen,is there anyway I can open a saving account
+accountOpen,let me get a new account
+accountOpen,loan options
+accountOpen,looking to open a saving account
+accountOpen,may i borrow a loan
+accountOpen,may i get a loan?
+accountOpen,my grandson was born last week what kind of a savings acct is offered that he can be the only person able to withdraw from after a certain age
+accountOpen,need a heloc
+accountOpen,need apply for a loan
+accountOpen,no im okay only credit cards options
+accountOpen,opening new savings account
+accountOpen,options for high yield savings accounts
+accountOpen,personal loans apply
+accountOpen,request card for john
+accountOpen,saving account options
+accountOpen,savings account apply
+accountOpen,savings account options
+accountOpen,send me credit card options
+accountOpen,small loan options
+accountOpen,so you do heloc
+accountOpen,trying get small business loan
+accountOpen,want a loan
+accountOpen,want a new savings account
+accountOpen,want a personal loan
+accountOpen,want a savings account
+accountOpen,want open a saving account
+accountOpen,want to apply for a loan
+accountOpen,want to borrow money
+accountOpen,want to open a checking account
+accountOpen,want to open an account
+accountOpen,want to open an hsa account
+accountOpen,want to open business account
+accountOpen,want to open saving account
+accountOpen,want to open savings account
+accountOpen,want to open savings account online
+accountOpen,want to take out a loan
+accountOpen,wanted to know about financing options you guys might have for a car
+accountOpen,wants to open a savings account
+accountOpen,was wondering how to make a savings account
+accountOpen,what are my options for saving accounts
+accountOpen,what credit card options does wells fargo currently have?
+accountOpen,what kind debit cards you have?
+accountOpen,what kind of credit card can i get through wells fargo
+accountOpen,what kind of credit card do wells fargo have?
+accountOpen,what kind of loan can i apply for to buy land
+accountOpen,what kind of loan offers do you offer?
+accountOpen,what kind of personal loan could i get
+accountOpen,what kind of savings accounts do you guys have?
+accountOpen,what kind of savings for minors
+accountOpen,what secured credit card options do the bank offer
+accountOpen,whats loans options
+accountOpen,where can i go to see what debit card options there are for my account
+accountOpen,where to get loan
+accountOpen,would like 2 open a new savings account
+accountOpen,would like to get a loan
+accountOpen,would like to open a savings account
+accountOpen,would you be able to help me open a savings account?
+credit_card.card_shipping,Can I get it any quicker
+credit_card.card_shipping,How long am I expecting to wait
+credit_card.card_shipping,How long before I get my new card
+credit_card.card_shipping,Will I receive it in the next few days
+credit_card.card_shipping,can you expedite it
+credit_card.card_shipping,can you send it fast
+credit_card.card_shipping,can you send it quickly
+credit_card.card_shipping,can you send my new card asap
+credit_card.card_shipping,how fast do you ship
+credit_card.card_shipping,how long does it usually take
+credit_card.card_shipping,how long until my new card arrives
+credit_card.card_shipping,how long will I be without a card
+credit_card.card_shipping,how many days will I need to wait
+credit_card.card_shipping,what's the shipping method
+credit_card.card_shipping,what's the shipping speed
+credit_card.card_shipping,when can I expect my new card
+credit_card.card_shipping,when will I get my new card
+credit_card.card_shipping,when will I receive the new card
+credit_card.card_shipping,when will it arrive
+credit_card.card_shipping,when will it be delivered
+credit_card.card_shipping,when will my new card arrive
+credit_card.card_shipping,when will my new credit card be mailed
+credit_card.card_shipping,will it arrive this week
+credit_card.card_shipping,will it be mailed straight a way
+credit_card.card_shipping,will it come in the mail
+credit_card.charges,$60 has come off my card today and I don't know what it is
+credit_card.charges,I don't know what the transaction for $100 was
+credit_card.charges,I don't recognize a charge for $50 on my account
+credit_card.charges,I don't recognize a transaction on my card
+credit_card.charges,I don't recognize the $150 charge made on my card on 25th December
+credit_card.charges,I have a charge on my credit card that I don't recognize
+credit_card.charges,I have a charge that I'd like to dispute
+credit_card.charges,I see a transaction for $99.99 that appeared on my card on Monday that shouldn't be there
+credit_card.charges,I want to dispute a charge on 11th October
+credit_card.charges,I want to dispute a transaction
+credit_card.charges,I want to question a transaction that I see on my statement
+credit_card.charges,I want to report fraud on my account
+credit_card.charges,I've been charged $20 and I don't know why
+credit_card.charges,I've been charged by Amazon for something on 8th Dec
+credit_card.charges,I've been charged for something I didn't buy
+credit_card.charges,I've been overcharged
+credit_card.charges,I've been wrongly charged $35
+credit_card.charges,Query a charge for $10 that appeared yesterday
+credit_card.charges,There is a charge for $150 on my account that I didn't spend
+credit_card.charges,There is a charge yesterday that I don't recognise
+credit_card.charges,There is a payment I don't recognise
+credit_card.charges,There is a transaction on my statement that I didn't make
+credit_card.charges,There's a charge on my statement dated 11th November that I don't recognize
+credit_card.charges,There's a fraudulent charge for $25 on my account
+credit_card.charges,There's a transaction for $30 yesterday and I didn't make it
+credit_card.charges,Walmart has taken $200 from account without my knowledge
+credit_card.charges,What is the $150 transaction showing on my statement for yesterday
+credit_card.charges,What's the charge for $20
+credit_card.charges,What's this transaction on my account?
+credit_card.charges,fraudulent charge on my card
+credit_card.check_balance,Account balance
+credit_card.check_balance,Balance
+credit_card.check_balance,Balance for 7890
+credit_card.check_balance,Balance for card ending in 1234
+credit_card.check_balance,Balance on my credit card
+credit_card.check_balance,Balance please
+credit_card.check_balance,Can you tell me my balance?
+credit_card.check_balance,Card balance
+credit_card.check_balance,Credit card balance amount
+credit_card.check_balance,Credit card balance for card ending 3972
+credit_card.check_balance,Credit card ending 1846 balance
+credit_card.check_balance,How much am I owe on my account
+credit_card.check_balance,How much do I owe on 4657?
+credit_card.check_balance,How much do I owe?
+credit_card.check_balance,How much is on my card?
+credit_card.check_balance,What's my card balance?
+credit_card.check_balance,What's my current balance?
+credit_card.check_balance,What's my total balance
+credit_card.check_balance,What's the balance for the account ending in 4356?
+credit_card.check_balance,What's the balance on my account
+credit_card.check_balance,What's the balance on my card?
+credit_card.check_balance,What's the balance on my credit card
+credit_card.check_balance,What's the statement balance
+credit_card.check_balance,credit card balance for card ending 3951
+credit_card.check_balance,credit card balance please
+credit_card.compare,Compare credit card features
+credit_card.compare,Compare platinum and gold cards
+credit_card.compare,How many bonus points do I get signing on with gold and bronze?
+credit_card.compare,I can't find information about the differences between gold and bronze
+credit_card.compare,I want to compare features between credit cards
+credit_card.compare,"I'm trying to find the annual fees between gold and bronze, but can't seem to find it"
+credit_card.compare,What interest rates apply to  gold and bronze?
+credit_card.compare,What is the difference in cashback between gold and bronze?
+credit_card.compare,can i compare bronze and platinum credit cards
+credit_card.compare,compare cards with cashback
+credit_card.compare,compare cashback cards
+credit_card.compare,compare credit cards
+credit_card.compare,compare features of bronze and silver cards
+credit_card.compare,compare interest rates for your credit cards
+credit_card.compare,compare the cashback rate for Gold Card and Silver Card
+credit_card.compare,compare the cashbackrate for Gold Card and Silver Card
+credit_card.compare,credit card compare
+credit_card.compare,how do the cash back rates compare between gold and bronze
+credit_card.compare,i want to compare credit cards
+credit_card.compare,i want to compare interest rates on your credit cards
+credit_card.compare,i want to find the cards with the highest cashback
+credit_card.compare,is there a difference between the fees for gold and silver
+credit_card.compare,what are the cashback rates for gold and silver credit cards
+credit_card.compare,what are the differences between gold and silver cards
+credit_card.compare,what are the fees for bronze and silver
+credit_card.compare,what cards have the best cashback?
+credit_card.compare,what's the best interest rates on your credit cards?
+credit_card.due_date,Due date
+credit_card.due_date,How long have I got until the next payment
+credit_card.due_date,How long until the payment due date
+credit_card.due_date,How many days until the payment is due?
+credit_card.due_date,I need to know when the payment is due
+credit_card.due_date,I need to know when the payment is due by
+credit_card.due_date,Need to know the payment due date
+credit_card.due_date,What date does the payment need to be made
+credit_card.due_date,What date is the payment due?
+credit_card.due_date,What is the payment due date
+credit_card.due_date,What's the due date?
+credit_card.due_date,When do I need to make a payment by?
+credit_card.due_date,When do I need to pay by?
+credit_card.due_date,When does the payment need to be made
+credit_card.due_date,When is it due?
+credit_card.due_date,When is my balance due?
+credit_card.due_date,When is my payment due?
+credit_card.due_date,When is the due date for payment?
+credit_card.due_date,When is the last date for payment
+credit_card.due_date,payment due date
+credit_card.due_date,what date is payment due
+credit_card.due_date,what date is the balance due
+credit_card.due_date,when do I need to make the payment by
+credit_card.due_date,when is the latest I can make the payment
+credit_card.due_date,when is the payment date
+credit_card.further_comparisons,And the interest rates?
+credit_card.further_comparisons,Any cashback?
+credit_card.further_comparisons,Are there any bonus points on those cards?
+credit_card.further_comparisons,Are there any fees?
+credit_card.further_comparisons,Can you tell me about the cashback?
+credit_card.further_comparisons,How many bonus points do I get?
+credit_card.further_comparisons,I want to compare fees as well
+credit_card.further_comparisons,I'm trying to find the annual fees
+credit_card.further_comparisons,Now the interest rates
+credit_card.further_comparisons,What about cashback?
+credit_card.further_comparisons,What about the interest rates?
+credit_card.further_comparisons,What are the rewards on offer for those cards
+credit_card.further_comparisons,What interest rates apply
+credit_card.further_comparisons,What is the difference in the cashback
+credit_card.further_comparisons,What is the lowest interest rate?
+credit_card.further_comparisons,all of them
+credit_card.further_comparisons,are the fees different for each card?
+credit_card.further_comparisons,are there any cards that offer rewards?
+credit_card.further_comparisons,bonus points?
+credit_card.further_comparisons,can I compare cash back rates now
+credit_card.further_comparisons,do any of the cards charge a subscription fee
+credit_card.further_comparisons,what cash back rates are available?
+credit_card.further_comparisons,"ya, tell me about bonus points"
+credit_card.further_comparisons,"yeah, I want to know about interest rates"
+credit_card.further_comparisons,yes are there any fees?
+credit_card.further_comparisons,"yes, what about annual fees?"
+credit_card.last_statement_balance,Credit card statement balance
+credit_card.last_statement_balance,I want my statement balance please
+credit_card.last_statement_balance,I want to know my credit card statement balance amount
+credit_card.last_statement_balance,What was my statement balance amount
+credit_card.last_statement_balance,and how about my last statement
+credit_card.last_statement_balance,balance from my last statement
+credit_card.last_statement_balance,how about my last statement
+credit_card.last_statement_balance,how much do I owe from last month
+credit_card.last_statement_balance,how much do I owe from my last bill
+credit_card.last_statement_balance,how much do I owe from my last statement
+credit_card.last_statement_balance,last bill
+credit_card.last_statement_balance,last month's bill
+credit_card.last_statement_balance,last month's statement balance
+credit_card.last_statement_balance,last statement
+credit_card.last_statement_balance,last statement balance
+credit_card.last_statement_balance,remaining balance from my last bill
+credit_card.last_statement_balance,statement balance for my credit card
+credit_card.last_statement_balance,what do I owe from the last statement
+credit_card.last_statement_balance,what was my bill last month
+credit_card.last_statement_balance,what was my last bill
+credit_card.last_statement_balance,what was my last statement
+credit_card.last_statement_balance,what was the last statement total
+credit_card.last_statement_balance,what was the statement balance on my last bill
+credit_card.last_statement_balance,what's last month's statement
+credit_card.last_statement_balance,what's the balance from my last statement
+credit_card.late_fee,Charges for late payments
+credit_card.late_fee,Fees for missed or late payments
+credit_card.late_fee,How much will I be charged for missing a payment?
+credit_card.late_fee,If I miss a payment is there a fee
+credit_card.late_fee,If I miss the due date will I be charged
+credit_card.late_fee,If I miss the payment due date is there a fee?
+credit_card.late_fee,Is there a charge if I miss a payment
+credit_card.late_fee,Is there a charge if I pay after the due date
+credit_card.late_fee,Is there a fee if I make a late payment
+credit_card.late_fee,Missed payment fees
+credit_card.late_fee,What's the charge for missing a payment?
+credit_card.late_fee,What's the fee for a missed payment
+credit_card.late_fee,do you have a late fee
+credit_card.late_fee,how about a late fee
+credit_card.late_fee,how much is the late fee
+credit_card.late_fee,is there a late fee
+credit_card.late_fee,late payment fee
+credit_card.late_fee,what if I can't pay on time
+credit_card.late_fee,what will be my fee for paying late
+credit_card.late_fee,what's the fee if I pay late
+credit_card.late_fee,what's the late fee
+credit_card.late_fee,will I be charged If I miss a payment
+credit_card.late_fee,will I be charged a late fee
+credit_card.late_fee,will I owe a late fee if I miss the payment
+credit_card.late_fee,will you charge me a late fee
+credit_card.lock_card,Block my card
+credit_card.lock_card,Can you freeze my card
+credit_card.lock_card,Can you lock my credit card
+credit_card.lock_card,Can you pause my credit card
+credit_card.lock_card,Can you put a pause on my card
+credit_card.lock_card,Freeze my card
+credit_card.lock_card,Hold on my card
+credit_card.lock_card,I can't find my card can you put a hold on it
+credit_card.lock_card,I need a freeze on my card
+credit_card.lock_card,I need a temporary hold on my card
+credit_card.lock_card,I need to lock my card
+credit_card.lock_card,I need to put a hold on my card
+credit_card.lock_card,I need to temporarily lock my card
+credit_card.lock_card,I need you to pause my card
+credit_card.lock_card,Lock my card
+credit_card.lock_card,Need to lock my card
+credit_card.lock_card,Pause my credit card
+credit_card.lock_card,Put a block on my credit card
+credit_card.lock_card,Put a hold on my card
+credit_card.lock_card,Temporarily freeze card
+credit_card.lock_card,Temporarily hold card
+credit_card.lock_card,Temporarily lock card
+credit_card.lock_card,Temporary block for my credit card
+credit_card.lock_card,freeze my card
+credit_card.lock_card,put a freeze on my credit card
+credit_card.lost_card,Card stolen
+credit_card.lost_card,I can't find my credit card
+credit_card.lost_card,I don't know where my card is
+credit_card.lost_card,I haven't been able to find my card
+credit_card.lost_card,I left my card in a taxi
+credit_card.lost_card,I lost my card
+credit_card.lost_card,I need to cancel my card
+credit_card.lost_card,I think I left my card at checkout
+credit_card.lost_card,I think I left my card at the store
+credit_card.lost_card,I think I lost my card
+credit_card.lost_card,I think my card was stolen
+credit_card.lost_card,I want to report a lost card
+credit_card.lost_card,I want to report my card as missing
+credit_card.lost_card,I'm missing my card
+credit_card.lost_card,I've lost my credit card
+credit_card.lost_card,I've misplaced my card
+credit_card.lost_card,Left my card at a restaurant
+credit_card.lost_card,Lost card
+credit_card.lost_card,My card is missing
+credit_card.lost_card,My card was stolen
+credit_card.lost_card,My credit card is lost
+credit_card.lost_card,Report a lost credit card
+credit_card.lost_card,Report a stolen card
+credit_card.lost_card,lost or stolen
+credit_card.lost_card,lost or stolen card
+credit_card.lost_card,my card needs cancelling
+credit_card.lost_card,please cancel my card
+credit_card.lost_card,stolen card
+credit_card.lost_card,stop my card
+credit_card.lost_card,stop payments from my card please I don't have it anymore
+credit_card.make_a_payment,Card payment
+credit_card.make_a_payment,Credit card payment
+credit_card.make_a_payment,I want to make a payment for the card ending in 4398
+credit_card.make_a_payment,I want to make a payment on my credit card ending 2054
+credit_card.make_a_payment,I want to pay my card
+credit_card.make_a_payment,I want to pay my credit card bill
+credit_card.make_a_payment,I want to pay off my credit card balance
+credit_card.make_a_payment,I want to pay the balance
+credit_card.make_a_payment,I would like to make a payment
+credit_card.make_a_payment,I would like to pay off 3948
+credit_card.make_a_payment,I'd like to make a payment
+credit_card.make_a_payment,I'd like to pay my credit card bill
+credit_card.make_a_payment,Make a payment
+credit_card.make_a_payment,Make a payment towards my credit card balance
+credit_card.make_a_payment,Make payment off my card
+credit_card.make_a_payment,Pay my balance in full
+credit_card.make_a_payment,Pay my credit card balance
+credit_card.make_a_payment,Pay off my credit card balance for card 7420
+credit_card.make_a_payment,Pay the balance
+credit_card.make_a_payment,Payment
+credit_card.make_a_payment,Payment for card 9453
+credit_card.make_a_payment,Payment to card ending 6295
+credit_card.make_a_payment,"credit card ending 1065, make a payment"
+credit_card.make_a_payment,make a card payment please
+credit_card.make_a_payment,payment on my credit card
+credit_card.minimum_payment,Can I make the minimum payment
+credit_card.minimum_payment,How much do I need to pay?
+credit_card.minimum_payment,How much is the minimum payment
+credit_card.minimum_payment,I can only pay the minimum
+credit_card.minimum_payment,I can't pay all of it
+credit_card.minimum_payment,"I can't pay all of it, can I pay a part of it?"
+credit_card.minimum_payment,I can't pay the whole thing right now
+credit_card.minimum_payment,I need to know the minimum payment amount
+credit_card.minimum_payment,Is there a minimum?
+credit_card.minimum_payment,Minimum
+credit_card.minimum_payment,What is the least payment I can make
+credit_card.minimum_payment,What is the least payment I'm allowed to make
+credit_card.minimum_payment,What is the lowest amount I can pay
+credit_card.minimum_payment,What is the minimum I need to pay
+credit_card.minimum_payment,What the minimum?
+credit_card.minimum_payment,What's my minimum payment due?
+credit_card.minimum_payment,What's the least I can pay?
+credit_card.minimum_payment,What's the lowest payment I can make
+credit_card.minimum_payment,What's the minimum I can pay?
+credit_card.minimum_payment,What's the minimum amount I can pay
+credit_card.minimum_payment,What's the minimum payment amount
+credit_card.minimum_payment,minimum due for last month
+credit_card.minimum_payment,minimum for last month
+credit_card.minimum_payment,minimum payment due
+credit_card.minimum_payment,what amount is due
+credit_card.minimum_payment,what's my minimum payment for last month
+credit_card.recurring_transactions,Do I need to do anything about my monthly subscriptions
+credit_card.recurring_transactions,Does this affect my recurring payments
+credit_card.recurring_transactions,"I have annual payments set up, will they be affected"
+credit_card.recurring_transactions,I have monthly bills coming off this card
+credit_card.recurring_transactions,"I have monthly payments set up, will they still be paid"
+credit_card.recurring_transactions,I have monthly subscriptions on this card
+credit_card.recurring_transactions,"I have monthly subscriptions, will they need changed"
+credit_card.recurring_transactions,"I have monthly subscriptions, will those be paid"
+credit_card.recurring_transactions,I have regular outgoings from that card
+credit_card.recurring_transactions,I pay for streaming with that card
+credit_card.recurring_transactions,What about my annual subscriptions
+credit_card.recurring_transactions,What happens to my existing recurring payments
+credit_card.recurring_transactions,Will my recurring payments still go through
+credit_card.recurring_transactions,Will my regular payments be affected
+credit_card.recurring_transactions,Will this affect my subscription to Netflix
+credit_card.recurring_transactions,what about my gym membership
+credit_card.recurring_transactions,what about my monthly bills
+credit_card.recurring_transactions,what about my regular payments
+credit_card.recurring_transactions,what about my subscription
+credit_card.recurring_transactions,will my cell phone bill still be paid
+credit_card.recurring_transactions,will my gym payment still go through
+credit_card.recurring_transactions,will my monthly transactions still be paid
+credit_card.recurring_transactions,will my netflix still be paid
+credit_card.recurring_transactions,will my recurring payments still happen
+credit_card.recurring_transactions,will this affect my regular payments
+credit_card.replace_card,Can I get a card replacement
+credit_card.replace_card,Can I get a new card
+credit_card.replace_card,"Can I get a new card, my one is damaged"
+credit_card.replace_card,Can I get my card replaced
+credit_card.replace_card,Can you replace my card
+credit_card.replace_card,Can you send me a new card
+credit_card.replace_card,Can you send me a new credit card
+credit_card.replace_card,Card replacement
+credit_card.replace_card,"I lost my card, can I get a replacement"
+credit_card.replace_card,I need a new card
+credit_card.replace_card,I need a new credit card
+credit_card.replace_card,I need to be sent a new card
+credit_card.replace_card,I need to replace my card
+credit_card.replace_card,I need to replace my credit card
+credit_card.replace_card,"My credit card is lost, I need a replacement"
+credit_card.replace_card,Need to replace card
+credit_card.replace_card,Need to replace my credit card
+credit_card.replace_card,New card
+credit_card.replace_card,New credit card
+credit_card.replace_card,Please send a new credit card
+credit_card.replace_card,Replace my card
+credit_card.replace_card,Replace my lost card
+credit_card.replace_card,Send me a new card
+credit_card.replace_card,my card is damaged and I need a new one
+credit_card.replace_card,replace a damaged card
+date extract,May 14th
+date extract,the date is March 20th
+dates,dates
+dates,dates interpretation
+dates,take note of a date
+directions,directions please
+directions,i want to test directions
+directions,jump to directions
+form filling,I want to fill a form
+form filling,Showme the form please
+form filling,form now
+form filling,form please
+form filling,give me a form
+function test,I want to test functions
+function test,function test please
+function test,functions
+getDirections,5 steps back
+getDirections,I want to move 3 steps forward
+getDirections,move 23 steps backward
+getDirections,move 5 steps back please
+getFromAccount,I need to transfer from account ***234
+getFromAccount,I want to transfer from account ***456
+getFromAccount,Transfer from account ***123
+getFromAccount,account ***123
+getFromAccount,transfer from account 12456
+loan_application.status,Can I get an update on my application for a loan?
+loan_application.status,Do you have an update on my Honda loan application?
+loan_application.status,Has loan 123456789 been approved
+loan_application.status,Has my loan application been approved
+loan_application.status,I applied for a home loan and I need an update on the progress
+loan_application.status,I applied for a loan and I haven't had an update
+loan_application.status,I applied for a loan and I'm looking for an update
+loan_application.status,"I applied for a loan, ref 123456789"
+loan_application.status,I need help with my home loan
+loan_application.status,I want to know about my loan application
+loan_application.status,I'm after the status of my home loan application
+loan_application.status,Status of loan application with reference 196340972
+loan_application.status,Was my loan application rejected
+loan_application.status,What about my auto loan 210932401
+loan_application.status,What is my auto loan application status?
+loan_application.status,What is my mortgage application status?
+loan_application.status,What is the status of my loan application 123456789
+loan_application.status,What is the status of my loan application 123456789?
+loan_application.status,What is the status of my mortgage
+loan_application.status,What's happening with my auto loan application
+loan_application.status,hi can i check on home loan 192039101
+loan_application.status,hi can i look at my auto loan 459019291?
+loan_application.status,how is my loan application progressing?
+loan_application.status,update on my loan
+loan_application.status,what's the status of my loan application
+loan_application.timelines,Can you give me an idea of duration?
+loan_application.timelines,Do you have a sense for when it might be done?
+loan_application.timelines,Do you know how long this will take
+loan_application.timelines,How long do I need to wait
+loan_application.timelines,How long does it take on average
+loan_application.timelines,How long will it take
+loan_application.timelines,Is there a deadline for the decision
+loan_application.timelines,When will I hear?
+loan_application.timelines,When will you make a decision
+loan_application.timelines,Will I hear in the next few days
+loan_application.timelines,and when will this be?
+loan_application.timelines,can you give me a date when it is done?
+loan_application.timelines,give me some idea of timing please
+loan_application.timelines,how much longer?
+loan_application.timelines,is it going to take much longer?
+loan_application.timelines,what date will I hear by
+loan_application.timelines,what's the timing for approval?
+loan_application.timelines,when can I expect the money?
+loan_application.timelines,when can I expect to hear back?
+loan_application.timelines,when can I get a decision?
+loan_application.timelines,when will it be approved?
+loan_application.timelines,when will the loan be approved?
+loan_application.timelines,when will this be?
+loan_application.timelines,will I be told when?
+loan_application.timelines,will it take much longer
+moneyPayment,auto pay credit card
+moneyPayment,automatic payment forum
+moneyPayment,autopay credit card
+moneyPayment,best way to pay monthly spousal support
+moneyPayment,bill pay.. i need to make credit card payments through online bill pay but I'm not familiar with how to do it
+moneyPayment,can i make a credit card payment from my account?
+moneyPayment,can i make a payment on her credit card with you or should i try deleting the app and reinstalling it
+moneyPayment,can i make a payment on my credit card balance
+moneyPayment,can i make an online payment to a wells fargo credit card
+moneyPayment,can i pay a chase credit card
+moneyPayment,can i pay another credit card from a different back account with this app ?
+moneyPayment,can i pay credit card bill
+moneyPayment,can i pay credit card bill online?
+moneyPayment,can i pay credit card bills thru bill pay
+moneyPayment,can i pay for a credit card with wells fargo
+moneyPayment,can i pay my credit card
+moneyPayment,can i pay my credit card bill
+moneyPayment,can i pay my credit card bill with my debit card
+moneyPayment,can i pay my debit bill
+moneyPayment,can i pay my husbands credit card with the wells fargo app??
+moneyPayment,can i pay my wf visa bill online
+moneyPayment,can i pay online from my bank to a different bank?
+moneyPayment,can i set up my account to autopay my credit card
+moneyPayment,can i set up payments to be pulled out of my savings account
+moneyPayment,can l pay my credit card bills through this account
+moneyPayment,can't pay my credit card. it is not shown in my app
+moneyPayment,closed credit card account i need to pay off. where do i make payments
+moneyPayment,could you help me out with setting up my account to pay my credit card online?
+moneyPayment,credit card electronic payments
+moneyPayment,credit card payment
+moneyPayment,credit card payment with online banking
+moneyPayment,credit card principal payment
+moneyPayment,hello  how do i pay a bill through my checking account for secured credit card
+moneyPayment,hello how are you greetings ... i would like to know if i can pay the credit card of another bank that is not wells fargo
+moneyPayment,hello i have a credit card but is not linked in the app and i need to pay the balance
+moneyPayment,hello. i was wondering how to set up pay my bill to a credit card on my wells fargo app
+moneyPayment,hey i want to pay off my college credit card debt
+moneyPayment,hey i'm trying to make a payment on a secured credit card that i had
+moneyPayment,hey. how do i pay off my credit card full amount today
+moneyPayment,hi audi how can i find bill pay on the wellsfargo app
+moneyPayment,hi can i pay us bank credit card from my wells checking account?
+moneyPayment,hi can we make a payment to our credit card from our account using the mobile app?
+moneyPayment,hi how pay my credit card bills plz help me
+moneyPayment,hi i need to make payment to my credit card from other bank
+moneyPayment,hi i would like to make a payment on my credit card
+moneyPayment,hi there how can i pay my bills online?
+moneyPayment,hi wondering how to make payment towards credit card through my account
+moneyPayment,hi. i have an old credit card account with you guys and i would like to settle it.
+moneyPayment,hi. i m trying to pay my wells fargo credit card thru my wells fargo checking account but i can t get thru.
+moneyPayment,how can i add my wells fargo credit card on my app so i can make payments to it
+moneyPayment,how can i do online bill pay
+moneyPayment,how can i electronically pay a credit card bill with my account?
+moneyPayment,how can i make a payment on a closed credit card?
+moneyPayment,how can i make a payment to closed credit card account
+moneyPayment,how can i make a payment to my bank of america credit card
+moneyPayment,how can i make a payment to my credit card account thru my mobile app
+moneyPayment,how can i make international payments?
+moneyPayment,how can i pay a bill
+moneyPayment,how can i pay a credit card with my wells fargo checking account
+moneyPayment,how can i pay bill from my checking account?
+moneyPayment,how can i pay credit card from another bank
+moneyPayment,how can i pay my bills online
+moneyPayment,how can i pay my credit card
+moneyPayment,how can i pay my credit card bill
+moneyPayment,how can i pay my credit card bill from my bank account ?
+moneyPayment,how can i pay my credit card i use to be able to transfer money now it doesn't even show on my accounts.
+moneyPayment,how can i pay my credit card online
+moneyPayment,how can i pay my credit card using my debit card
+moneyPayment,how can i pay my wells fargo credit card with a wells fargo account
+moneyPayment,how can i pay my wells fargo credit cars
+moneyPayment,how can i pay my wf credit card bill?
+moneyPayment,how can i pay off a closed credit card account?
+moneyPayment,how can i pay on my credit card through this company
+moneyPayment,how can i pay someone's wellsfargo credit card with my wellsfargo checking account?
+moneyPayment,how can i schedule to pay a credit card bill with my account
+moneyPayment,how can i set up a reoccurring payment for rent
+moneyPayment,how could i add a credit card payment on the app
+moneyPayment,how do i add a auto bill pay for a credit card
+moneyPayment,how do i change my credit card payment amount using the mobile app?
+moneyPayment,how do i do a payment directly from my account for a credit card payment
+moneyPayment,how do i go about paying my first progress credit card? cannot locate where to pay.
+moneyPayment,how do i make a bill payment online
+moneyPayment,how do i make a payment on my wf merchant credit card
+moneyPayment,how do i pay a bill?
+moneyPayment,how do i pay a non wells fargo credit card bill
+moneyPayment,how do i pay city back from wells fargo
+moneyPayment,how do i pay credit card bill on with my account
+moneyPayment,how do i pay my bank of america credit cards through my bank
+moneyPayment,how do i pay my bills on here
+moneyPayment,how do i pay my credit card bill
+moneyPayment,how do i pay my credit card bill from my account
+moneyPayment,how do i pay my credit card through my bank
+moneyPayment,how do i pay my wells visa credit card
+moneyPayment,how do i pay off my credit card
+moneyPayment,how do i pay the outstanding credit card balance?
+moneyPayment,how do i send an ach payment?
+moneyPayment,how do i sent up a monthly payment to credit card
+moneyPayment,how do i set up a monthly bill payment
+moneyPayment,how do i set up a new reoccurring payment?
+moneyPayment,how do i set up an automatic zelle payment to someone on the 1st of every month?
+moneyPayment,how do i set up auto pay for my credit cards
+moneyPayment,how do i set up auto payment on my credit card account?
+moneyPayment,how do i set up bill pay to the financial institution
+moneyPayment,how do i set up payments every month?
+moneyPayment,how do i set up recurring payments
+moneyPayment,how do i set up reoccurring payment for rent purposes?
+moneyPayment,how do i setup online bill pay to pay a credit card i have with bank of america using my wells fargo account
+moneyPayment,how so i find bill pay
+moneyPayment,how to bill pay
+moneyPayment,how to make a payment to my credit card?
+moneyPayment,how to pay my bills on here
+moneyPayment,how to pay my credit card
+moneyPayment,how to pay my credit card bill
+moneyPayment,how to pay my credit card bill online
+moneyPayment,how to pay wf credit card online?  so i ass it as a payee in billpay?
+moneyPayment,how to turn on reoccurring payment for my mortgage
+moneyPayment,i am trying to pay old credit card debt
+moneyPayment,i have a new credit card and i need to make a payment wjat do i need to do?
+moneyPayment,i have outstanding credit card debt that i need to pay
+moneyPayment,i have to pay a friend
+moneyPayment,i have to pay my friend back can you help with that?
+moneyPayment,i just got a credit card and i need to setup bill pay
+moneyPayment,i just want to know if i make a payment to my gap credit card from my wells fargo checking account
+moneyPayment,i made the payment online with my debit card
+moneyPayment,i need to know how to make a recurring payment
+moneyPayment,i need to make a credit card payment through my account how do i do that online
+moneyPayment,i need to make a payment on my credit card
+moneyPayment,i need to make a payment on my credit card through my mobile app
+moneyPayment,i need to now how to pay my credit card bell
+moneyPayment,i need to pay a bill for another bank credit card
+moneyPayment,i need to pay credit card
+moneyPayment,i need to pay my credit card bill
+moneyPayment,i need to pay off my credit card
+moneyPayment,i need to send money to a credit card
+moneyPayment,i need to set up online bill pay through my bank account for my credit card
+moneyPayment,i need to set up payments to my credit card how do i do this?
+moneyPayment,i want to add credit card to my online banking account so that i can make payments
+moneyPayment,i want to know how can i pay my bills with the wells fargo app
+moneyPayment,i want to make a credit card payment
+moneyPayment,i want to make payment to my credit card. but wells fargo do not allowed
+moneyPayment,i want to pay a friend using your service
+moneyPayment,i want to pay back my temporary credit to my account
+moneyPayment,i want to pay bills with my savings account.
+moneyPayment,i want to pay my credit card
+moneyPayment,i want to pay my credit card of navy federal from my account of wells fargo
+moneyPayment,i want to pay my friend back
+moneyPayment,i want to pay my overdraft
+moneyPayment,i want to pay off my credit card
+moneyPayment,i want to pay online my credit card i dont know how
+moneyPayment,i want to set my credit card on my account to automatically pay the credit card bill
+moneyPayment,i want to set up a recurring payment to my credit union.
+moneyPayment,i want to set up re occurring payments.
+moneyPayment,i want to set up with e-bill til make annual car payments
+moneyPayment,i want to settle my credit account.
+moneyPayment,i wanted to pay off my credit card
+moneyPayment,i wanted to start paying off my closed credit card account. how do i go about that
+moneyPayment,i was trying to pay on my credit card online
+moneyPayment,i would like to be able to pay my credit card directly from my bank account rather than mailing it ..
+moneyPayment,i would like to know how to pay credit card bill online through my bank account
+moneyPayment,i would like to make a payment of 9999.40 usd with my debit card
+moneyPayment,i would like to make a payment on my wife s wells fargo credit card on line
+moneyPayment,i would like to make a payment to my credit card with another institution can i?
+moneyPayment,i would like to pay my credit card balance
+moneyPayment,i would like to pay my husbands credit card
+moneyPayment,i would like to pay off my credit card
+moneyPayment,i would like to pay off my credit card bill
+moneyPayment,i would like to pay off my credit card bill from my savings
+moneyPayment,i would like to pay off ny credit card balance
+moneyPayment,i would like to set up auto pay for my credit card
+moneyPayment,i would like to set up payment on my credit card. how do i do this function
+moneyPayment,i'd like to pay credit card from another bank
+moneyPayment,i'd like to pay my credit card bill
+moneyPayment,i'm looking to pay credit card debt
+moneyPayment,i'm needing to pay a credit card from my bank account
+moneyPayment,i'm trying to get to my credit card through the app to make a payment and i can not find it
+moneyPayment,i'm trying to pay a credit card
+moneyPayment,i'm trying to pay for online therapy with my card
+moneyPayment,i'm trying to pay my credit card with bill pay
+moneyPayment,i'm trying to pay my first progress credit card bill with my debit card i can't figure it out
+moneyPayment,i'm trying to pay my southwest credit card
+moneyPayment,i'm trying to pay on my credit card
+moneyPayment,i've made a payment towards my amex credit card from my checking account
+moneyPayment,im teying to pay my husbands credit card with my wells fargo account is that possible
+moneyPayment,im trying to pay a credit card
+moneyPayment,im trying to pay my credit card
+moneyPayment,im trying to pay my credit card bill
+moneyPayment,im trying to pay on a credit card and it tells me to use bill pay from my bank but i dont see anything
+moneyPayment,is billpay available on my account.  i'm trying to pay my credit card bill.
+moneyPayment,is there a certain way i need to pay my discover credit card
+moneyPayment,is there a way i can pay my wells fargo credit card payment through the app?
+moneyPayment,is there a way to setup recurring bill payments using only the phone app?
+moneyPayment,make a 100 dollars payment
+moneyPayment,make a payment to a credit card account
+moneyPayment,make credit card payment
+moneyPayment,making a payment to credit card
+moneyPayment,need to make a payment
+moneyPayment,need to pay my credit card balance
+moneyPayment,need to set up automatic payments for new credit card
+moneyPayment,no i don't want a credit card i want to pay my credit card with my bank account
+moneyPayment,no i want to pay my credit card bill online but i wanted to know how the payment will be remitted
+moneyPayment,okay i have too pay a credit card bill witch one would that be
+moneyPayment,online bill pay
+moneyPayment,online bill pay where is it located
+moneyPayment,online bill payment
+moneyPayment,pay a bill
+moneyPayment,pay a paypal invoice
+moneyPayment,pay bob 1 cents
+moneyPayment,pay credit card
+moneyPayment,pay credit card balance
+moneyPayment,pay credit card bill
+moneyPayment,pay credit card bill from another bank
+moneyPayment,pay credit card from online savings accoint
+moneyPayment,pay my credit card
+moneyPayment,pay my mortgage
+moneyPayment,pay off balance on default credit card
+moneyPayment,pay off credit card
+moneyPayment,pay off old wf credit card
+moneyPayment,pay on my wells fargo credit card
+moneyPayment,pay someone's else's wellsfargo credit card with my wellsfargo checking account
+moneyPayment,pay visa bill
+moneyPayment,pay wells fargo credit card bill
+moneyPayment,payed my credit card payment
+moneyPayment,paying a closed college credit card
+moneyPayment,payment to credit card
+moneyPayment,payments towards credit card
+moneyPayment,re occurring payments set up
+moneyPayment,set up a big payment
+moneyPayment,set up automatic payment
+moneyPayment,set up monthly bill pay
+moneyPayment,set up payment to bank of america credit card
+moneyPayment,setting up a recurring ach payment every month.
+moneyPayment,trying to make a payment
+moneyPayment,trying to pay off credit card
+moneyPayment,want to make a payment
+moneyPayment,want to pay bills
+moneyPayment,wants to pay my credit card please
+moneyPayment,wells fargo credit card payment
+moneyPayment,where can i find the page bill pay
+moneyPayment,where can i pay my credit card on here ?
+moneyPayment,where in the app is bill pay?
+moneyPayment,where on line if possible can i pay my wells fargo credit card with my new wells fargo checking acct
+moneyPayment,would like to pay my remaining balance
+moneyPayment,yes i want to make a credit card payment
+moneyPayment,yes i would like to know how i can pay my credit card with my account
+moneyPayment,yes...i can't find that option and i would like to set up online bill pay for one of my credit cards
+numbers,1224425443656 
+numbers,13344 
+numbers,1938586 
+numbers,mi number is 299449294
+period,period of time
+period,range of time
+period,time range
+period,transactions since may 15th
+period detection,13 days ago
+period detection,Amazon purchases for the past 3 months
+period detection,all transactions in the last week
+period detection,from July 3 to August 15
+period detection,from march 23th to jan 12th
+period detection,show transactions from Wednesday
+period detection,transactions since may 15th
+showAccounts,I want to see my accounts
+showAccounts,accounts please
+showAccounts,show me my accounts
+small_talk.agent_redirect, can i talk to someone
+small_talk.agent_redirect,agent
+small_talk.agent_redirect,can i please speak to a manager
+small_talk.agent_redirect,can i speak with a person?
+small_talk.agent_redirect,can i talk to a real person
+small_talk.agent_redirect,can you escalate this to a human
+small_talk.agent_redirect,human please
+small_talk.agent_redirect,i need to speak to a real person
+small_talk.agent_redirect,i need to talk to someone
+small_talk.agent_redirect,i only want to speak to a human
+small_talk.agent_redirect,live agent
+small_talk.agent_redirect,live human now please
+small_talk.agent_redirect,live rep please
+small_talk.agent_redirect,manager
+small_talk.agent_redirect,no robots real human
+small_talk.agent_redirect,operator
+small_talk.agent_redirect,please transfer me
+small_talk.agent_redirect,real person please
+small_talk.agent_redirect,redirect me to a representative 
+small_talk.agent_redirect,redirect me to customer service please
+small_talk.agent_redirect,representative
+small_talk.agent_redirect,talk to human
+small_talk.agent_redirect,this is frustrating
+small_talk.agent_redirect,this isn't working
+small_talk.agent_redirect,transfer me to a real person
+small_talk.agent_redirect,transition me to a customer helper
+small_talk.agent_redirect,zero
+small_talk.confirmation.no,I disagree
+small_talk.confirmation.no,I don't think so
+small_talk.confirmation.no,I don't want
+small_talk.confirmation.no,I don't want that
+small_talk.confirmation.no,I don't want to
+small_talk.confirmation.no,I said no
+small_talk.confirmation.no,I say no
+small_talk.confirmation.no,I think no
+small_talk.confirmation.no,I'm not
+small_talk.confirmation.no,absolutely no
+small_talk.confirmation.no,absolutely not
+small_talk.confirmation.no,actually no
+small_talk.confirmation.no,apparently not
+small_talk.confirmation.no,definitely not
+small_talk.confirmation.no,disagree
+small_talk.confirmation.no,do not
+small_talk.confirmation.no,don t have a sense
+small_talk.confirmation.no,don't
+small_talk.confirmation.no,don't do that
+small_talk.confirmation.no,how about no
+small_talk.confirmation.no,it isn't
+small_talk.confirmation.no,it's not
+small_talk.confirmation.no,let's not
+small_talk.confirmation.no,na
+small_talk.confirmation.no,nah
+small_talk.confirmation.no,never
+small_talk.confirmation.no,no
+small_talk.confirmation.no,no 
+small_talk.confirmation.no,no I 
+small_talk.confirmation.no,no I would not
+small_talk.confirmation.no,no actually
+small_talk.confirmation.no,no but thank you
+small_talk.confirmation.no,no do not
+small_talk.confirmation.no,no don't
+small_talk.confirmation.no,no forget
+small_talk.confirmation.no,no incorrect
+small_talk.confirmation.no,no just no
+small_talk.confirmation.no,no leave it
+small_talk.confirmation.no,no need
+small_talk.confirmation.no,no need thanks
+small_talk.confirmation.no,no never
+small_talk.confirmation.no,no sorry
+small_talk.confirmation.no,no tanks
+small_talk.confirmation.no,no thank you though
+small_talk.confirmation.no,no thank you very much
+small_talk.confirmation.no,no thanks
+small_talk.confirmation.no,no thanks not right now
+small_talk.confirmation.no,no that's fine
+small_talk.confirmation.no,no that's wrong
+small_talk.confirmation.no,no way
+small_talk.confirmation.no,nooo
+small_talk.confirmation.no,nope
+small_talk.confirmation.no,nope sorry
+small_talk.confirmation.no,not at this time
+small_talk.confirmation.no,not exactly
+small_talk.confirmation.no,not for today
+small_talk.confirmation.no,not interested
+small_talk.confirmation.no,not needed
+small_talk.confirmation.no,not really
+small_talk.confirmation.no,not really no
+small_talk.confirmation.no,not right now
+small_talk.confirmation.no,not right now thanks
+small_talk.confirmation.no,not that
+small_talk.confirmation.no,not this
+small_talk.confirmation.no,not this time
+small_talk.confirmation.no,not today
+small_talk.confirmation.no,of course not
+small_talk.confirmation.no,sorry no
+small_talk.confirmation.no,thank you
+small_talk.confirmation.no,thanks but no thanks
+small_talk.confirmation.yes,I agree
+small_talk.confirmation.yes,I do
+small_talk.confirmation.yes,I don't mind
+small_talk.confirmation.yes,I guess
+small_talk.confirmation.yes,I think so
+small_talk.confirmation.yes,I'm sure
+small_talk.confirmation.yes,absolutely
+small_talk.confirmation.yes,affirmative
+small_talk.confirmation.yes,all right
+small_talk.confirmation.yes,alrighty
+small_talk.confirmation.yes,certainly
+small_talk.confirmation.yes,confirmed
+small_talk.confirmation.yes,definitely
+small_talk.confirmation.yes,do it
+small_talk.confirmation.yes,exactly
+small_talk.confirmation.yes,fine
+small_talk.confirmation.yes,for sure
+small_talk.confirmation.yes,go ahead
+small_talk.confirmation.yes,go for it
+small_talk.confirmation.yes,good
+small_talk.confirmation.yes,it is correct
+small_talk.confirmation.yes,k
+small_talk.confirmation.yes,looks correct
+small_talk.confirmation.yes,obviously
+small_talk.confirmation.yes,of course
+small_talk.confirmation.yes,of course why not
+small_talk.confirmation.yes,oh yes
+small_talk.confirmation.yes,ok
+small_talk.confirmation.yes,ok 
+small_talk.confirmation.yes,ok go ahead
+small_talk.confirmation.yes,ok thank you
+small_talk.confirmation.yes,ok yes
+small_talk.confirmation.yes,ok you can
+small_talk.confirmation.yes,okay
+small_talk.confirmation.yes,okay sounds 
+small_talk.confirmation.yes,okay that's 
+small_talk.confirmation.yes,okay then
+small_talk.confirmation.yes,okey
+small_talk.confirmation.yes,okie dokie
+small_talk.confirmation.yes,please do
+small_talk.confirmation.yes,right
+small_talk.confirmation.yes,sounds good
+small_talk.confirmation.yes,sure
+small_talk.confirmation.yes,sure why not
+small_talk.confirmation.yes,that is ok
+small_talk.confirmation.yes,that's correct
+small_talk.confirmation.yes,that's okay
+small_talk.confirmation.yes,this is correct
+small_talk.confirmation.yes,why not
+small_talk.confirmation.yes,ya
+small_talk.confirmation.yes,yap
+small_talk.confirmation.yes,ye
+small_talk.confirmation.yes,yea
+small_talk.confirmation.yes,yeah
+small_talk.confirmation.yes,yeah 
+small_talk.confirmation.yes,yeah exactly
+small_talk.confirmation.yes,yeah go ahead
+small_talk.confirmation.yes,yeah of course
+small_talk.confirmation.yes,yeah right
+small_talk.confirmation.yes,yeah that's right
+small_talk.confirmation.yes,yeh
+small_talk.confirmation.yes,yep
+small_talk.confirmation.yes,yes
+small_talk.confirmation.yes,yes I agree
+small_talk.confirmation.yes,yes I do
+small_talk.confirmation.yes,yes I would like to confirm
+small_talk.confirmation.yes,yes correct
+small_talk.confirmation.yes,yes definitely
+small_talk.confirmation.yes,yes indeed
+small_talk.confirmation.yes,yes it is
+small_talk.confirmation.yes,yes right
+small_talk.confirmation.yes,yes thank you
+small_talk.confirmation.yes,yes that's 
+small_talk.confirmation.yes,yes this is correct
+small_talk.confirmation.yes,yes you may
+small_talk.confirmation.yes,yup
+small_talk.dont_know,Can't remember
+small_talk.dont_know,Don't know
+small_talk.dont_know,Don't remember
+small_talk.dont_know,I don't have one
+small_talk.dont_know,I don't have that
+small_talk.dont_know,I don't have the card anymore
+small_talk.dont_know,I don't have the card number
+small_talk.dont_know,I don't know
+small_talk.dont_know,I don't know it
+small_talk.dont_know,I don't know where to find it
+small_talk.dont_know,I have no idea
+small_talk.dont_know,I haven't written it down
+small_talk.dont_know,"I looked, but I cannot find it"
+small_talk.dont_know,I wasn't given one
+small_talk.dont_know,I'm not positive
+small_talk.dont_know,I'm not sure
+small_talk.dont_know,I'm unsure
+small_talk.dont_know,I'm unsure where it is
+small_talk.dont_know,I've not got it
+small_talk.dont_know,No idea
+small_talk.dont_know,Not positive
+small_talk.dont_know,Not sure
+small_talk.dont_know,Where do I find it?
+small_talk.dont_know,can't find it
+small_talk.dont_know,lost it
+small_talk.dont_know,misplaced the number
+small_talk.dont_know,not available
+take last four,last 4
+take last four,last four
+take last four,test last four
+test,I'm testing
+test,Only a test
+test,show me a test
+test,test
+test,testing
+test,this is a test
+transferIntent,I want to transfer $ 100
+transferIntent,transfer 1000 please
+transferIntent,transfer 200 to Charlie
